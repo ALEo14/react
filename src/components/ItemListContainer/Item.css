@@ -1,0 +1,37 @@
+main{
+    background-color: aliceblue;
+    margin:1rem;
+    margin-left: 0 ;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+.containerProductos{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap:1rem;
+}
+.tituloPrincipal{
+    color:rgb(89, 18, 146) ;
+    margin-bottom: 2rem;
+}
+
+.imgProducto{
+    width: 100%;
+    border-radius: 1rem;
+}
+.productosDetalles{
+    background-color: rgb(89, 18, 146);
+    color:aliceblue;
+   
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: -2rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.precioProducto{
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-bottom: 1rem;
+}
