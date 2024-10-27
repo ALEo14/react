@@ -15,10 +15,12 @@ const ItemListContainer = () => {
     }, [])
 
     return (
-    <div>
+            
+    <main>
+<h2 class="tituloPrincipal" id="tituloPrincipal">Todos los productos</h2>
         <ItemList productos={productos}/>
         
-    </div>
+        </main>
     )
 }
 
