@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './Item.css';
 import Item from './Item'
 const ItemList = ({productos}) => {
     console.log(productos)

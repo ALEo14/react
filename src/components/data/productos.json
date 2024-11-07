@@ -1,61 +1,59 @@
 [
     {
-      "id": "Camiseta-1",
-      "titulo": "Camiseta-01",
+      "id": 1,
+      "titulo": "Camiseta River 2023",
       "imagen": "fotos/camiseta-01.jpeg",
       "categoria": {
-        "nombre": "Camisetas",
-        "id": "camisetas"
+        "nombre": "Camisetas"
       },
       "precio": 1000
     },
     {
-      "id": "Camiseta-2",
-      "titulo": "Camiseta-2",
+      "id": 1,
+      "titulo": "Camiseta River 2018",
       "imagen": "fotos/camiseta-2.jpeg",
       "categoria": {
-        "nombre": "Camisetas",
-        "id": "camisetas"
+        "nombre": "Camisetas"
       },
       "precio": 1000
     },
     {
-      "id": "Short-01",
-      "titulo": "Short-01",
+      "id": 2,
+      "titulo": "Short River 2023",
       "imagen": "fotos/short-01.jpeg",
       "categoria": {
-        "nombre": "short",
-        "id": "short"
+        "nombre": "short"
+        
       },
       "precio": 3000
     },
     {
-      "id": "Short-02",
-      "titulo": "Short-02",
+      "id": 2,
+      "titulo": "Short River 2018",
       "imagen": "fotos/short-02.jpeg",
       "categoria": {
-        "nombre": "short",
-        "id": "short"
+        "nombre": "short"
+        
       },
       "precio": 3000
     },
     {
-      "id": "Campera-01",
-      "titulo": "campera-01",
+      "id":3,
+      "titulo": "campera River 2023",
       "imagen": "fotos/campera-01.jpeg",
       "categoria": {
-        "nombre": "Camperas",
-        "id": "Campera"
+        "nombre": "Camperas"
+        
       },
       "precio": 25000
     },
     {
-      "id": "Campera-02",
-      "titulo": "campera-01",
+      "id":3,
+      "titulo": "campera River 2018",
       "imagen": "fotos/campera-02.jpeg",
       "categoria": {
-        "nombre": "Camperas",
-        "id": "Campera"
+        "nombre": "Camperas"
+        
       },
       "precio": 25000
     }

@@ -5,14 +5,23 @@ main{
     border-radius: 2rem;
     padding: 2rem;
 }
-.containerProductos{
+
+.productos{
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(3,1fr);
     gap:1rem;
+    padding: 2rem;
+    padding-top:5rem ;
 }
+.containerProductos{
+    padding: 2rem;
+}
+
 .tituloPrincipal{
     color:rgb(89, 18, 146) ;
+    padding-top: 1rem;
     margin-bottom: 2rem;
+    text-align: center;
 }
 
 .imgProducto{
@@ -22,7 +31,6 @@ main{
 .productosDetalles{
     background-color: rgb(89, 18, 146);
     color:aliceblue;
-   
     padding: 1rem;
     border-radius: 1rem;
     margin-top: -2rem;
